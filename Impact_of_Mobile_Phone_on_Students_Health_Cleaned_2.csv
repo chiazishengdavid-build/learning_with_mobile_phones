@@ -1,0 +1,92 @@
+﻿Names,Age,Gender ,Mobile Phone ,Mobile Operating System ,Mobile phone use for education,Mobile phone activities,Helpful for studying,Educational Apps,Daily usages,Performance impact,Usage distraction,Attention span,Useful features,Health Risks,Beneficial subject,Usage symptoms,Symptom frequency,Health precautions,Health rating
+Ali,23,Male,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Agree,During Exams,Yes,Camera,Yes,Accounting,Headache,Never,Using Blue light filter,Excellent
+Bilal,23,Male,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Neutral,During Exams,Yes,Notes Taking App,Yes,Browsing Material,All of these,Sometimes,Taking Break during prolonged use,Good
+Hammad,23,Male,Yes,IOS,Sometimes,All of these,Yes,Educational Videos,5,Strongly agree,Not Distracting,No,Camera,Yes,Browsing Material,All of these,Sometimes,None of Above,Excellent
+Waqar,23,Male,Yes,IOS,Frequently,All of these,Yes,Educational Videos,7,Agree,While Studying,Yes,Internet Access,No,Browsing Material,Sleep disturbance,Sometimes,None of Above,Excellent
+Aammar,23,Male,Yes,Android,Rarely,All of these,Yes,Educational Videos,7,Neutral,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,Headache,Sometimes,None of Above,Good
+Fatima,23,Female,Yes,IOS,Sometimes,All of these,Yes,Study Planner,5,Agree,Not Distracting,Yes,Internet Access,No,Reasarch,Sleep disturbance,Sometimes,None of Above,Good
+Jehanzaib,23,Male,Yes,Android,Rarely,All of these,Yes,Educational Videos,3,Strongly disagree,While Studying,Yes,Camera,Only Partially,Reasarch,Headache,Frequently,None of Above,Excellent
+Shafiq,23,Male,Yes,Android,Sometimes,Social Media;All of these,Yes,Study Planner,5,Agree,During Class Lectures,No,Internet Access,Only Partially,Reasarch,Sleep disturbance,Sometimes,None of Above,Excellent
+Mubashir,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Agree,During Class Lectures,Yes,Internet Access,Only Partially,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+Asad,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+Wasid,23,Male,Yes,IOS,Sometimes,Social Media,Yes,Educational Videos,7,Neutral,During Class Lectures,Yes,Internet Access,Yes,Accounting,Anxiety or Stress,Sometimes,Taking Break during prolonged use,Excellent
+Waqas,23,Male,Yes,Android,Frequently,Web-browsing,Yes,Study Planner,3,Agree,During Exams,Yes,Calculator,Yes,Reasarch,Headache,Never,Limiting Screen Time,Excellent
+Aqsa,18,Female,Yes,Android,Sometimes,All of these,Yes,Educational Videos,7,Neutral,While Studying,Yes,Internet Access,Only Partially,Browsing Material,All of these,Sometimes,Using Blue light filter,Fair
+Saleem,23,Male,Yes,Android,Sometimes,Social Media;Web-browsing;Messaging;All of these,Yes,Study Planner,3,Agree,During Exams,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Excellent
+Farhan,23,Male,Yes,Android,Rarely,All of these,Yes,Educational Videos,3,Agree,During Exams,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+Zeeshan,23,Male,Yes,Android,Frequently,All of these,Yes,Productivity Tools,7,Agree,Not Distracting,No,Internet Access,Yes,Browsing Material,All of these,Sometimes,Using Blue light filter,Excellent
+Mukhtar,23,Male,Yes,IOS,Sometimes,All of these,Yes,Language,5,Neutral,While Studying,Yes,Internet Access,No,Browsing Material,Sleep disturbance;Anxiety or Stress,Rarely,None of Above,Good
+Rabia,23,Female,Yes,Android,Sometimes,All of these,Yes,Educational Videos,7,Agree,During Class Lectures,Yes,Notes Taking App,Yes,Browsing Material,Headache,Sometimes,Limiting Screen Time,Good
+Maryam,28,Female,Yes,Android,Frequently,All of these,Yes,Productivity Tools,5,Strongly agree,While Studying,Yes,Internet Access,Yes,Reasarch,All of these,Frequently,None of Above,Good
+Irfan,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Disagree,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,Sleep disturbance;Anxiety or Stress,Sometimes,Limiting Screen Time,Good
+Mudassar,23,Male,Yes,Android,Frequently,All of these,Yes,Educational Videos,7,Strongly disagree,During Class Lectures,No,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Using Blue light filter,Excellent
+Shahzad,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Strongly agree,Not Distracting,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Rarely,Taking Break during prolonged use,Good;Fair
+Hasinain,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Neutral,While Studying,No,Internet Access,Only Partially,Reasarch,Sleep disturbance,Rarely,Limiting Screen Time,Fair
+Samia,23,Female,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Neutral,During Exams,Yes,Internet Access,No,Browsing Material,Headache,Rarely,Limiting Screen Time,Good
+Hassan,23,Male,Yes,Android,Rarely,Social Media,Yes,Study Planner,5,Neutral,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Good;Fair
+Hamayhoon,23,Male,Yes,Android,Never,All of these,Yes,Educational Videos,1,Agree,While Studying,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Limiting Screen Time,Excellent
+Abid,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Neutral,While Studying,No,Internet Access,Yes,Browsing Material,All of these,Never,Using Blue light filter,Excellent
+Fasial,23,Male,Yes,Android,Never,Social Media,Yes,Language,1,Strongly disagree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Headache,Rarely,None of Above,Good
+Yaqoob,23,Male,Yes,Android,Sometimes,All of these,Yes,Productivity Tools,5,Disagree,During Class Lectures,Yes,Internet Access,Yes,Browsing Material,All of these,Rarely,Taking Break during prolonged use,Good
+Sakina,23,Female,Yes,Android,Frequently,All of these,Yes,Educational Videos,5,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Headache,Sometimes,None of Above,Good
+Sania,23,Female,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Agree,During Class Lectures,No,Camera,No,Reasarch,Sleep disturbance,Sometimes,None of Above,Good
+Mursaleen,23,Male,Yes,IOS,Sometimes,All of these,Yes,Educational Videos,5,Agree,While Studying,No,Internet Access,Only Partially,Browsing Material,Anxiety or Stress,Never,Using Blue light filter,Good
+Sohail,23,Male,Yes,IOS,Never,Social Media,Yes,Study Planner,7,Strongly agree,Not Distracting,Yes,Internet Access,No,Reasarch,All of these,Rarely,Using Blue light filter,Excellent
+Qadir,23,Male,Yes,IOS,Frequently,All of these,Yes,Study Planner,3,Agree,While Studying,Yes,Internet Access,No,Reasarch,All of these,Rarely,Limiting Screen Time,Good
+Khawir,33,Male,Yes,Android,Never,All of these,No,Study Planner,1,Neutral,Not Distracting,No,Calculator,Only Partially,Accounting,All of these,Never,None of Above,Excellent
+Tariq,23,Male,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Agree,During Class Lectures,No,Notes Taking App,Yes,Reasarch,Headache,Sometimes,None of Above,Excellent
+Shakir,23,Male,Yes,Android,Frequently,Social Media;Web-browsing;Messaging;All of these,Yes,Productivity Tools,5,Disagree,During Class Lectures,Yes,Calculator,Yes,Browsing Material,All of these,Sometimes,Using Blue light filter,Excellent;Good
+Nafees,18,Male,Yes,IOS,Frequently,All of these,Yes,Educational Videos,7,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Frequently,None of Above,Fair
+Assraa,33,Male,Yes,IOS,Frequently,All of these,Yes,Productivity Tools,3,Strongly disagree,While Studying,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+Saman,18,Female,Yes,Android,Never,Social Media;All of these,No,Language,7,Strongly disagree,While Studying,Yes,Internet Access,Yes,Browsing Material,Anxiety or Stress,Sometimes,None of Above,Poor
+Farouk,18,Male,Yes,IOS,Sometimes,Social Media,Yes,Language,7,Neutral,Not Distracting,No,Internet Access,No,Reasarch,Anxiety or Stress,Never,None of Above,Excellent
+Haroon,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Agree,Not Distracting,Yes,Internet Access,Yes,Reasarch,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+Ahmed,18,Male,Yes,Android,Frequently,All of these,Yes,Educational Videos,3,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+Hashim,28,Male,Yes,IOS,Sometimes,Social Media;Web-browsing;Messaging;All of these,Yes,Language,5,Agree,During Exams,No,Camera,No,Accounting,Anxiety or Stress,Rarely,Taking Break during prolonged use,Good
+Saad,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Neutral,While Studying,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance;Anxiety or Stress,Sometimes,Taking Break during prolonged use,Good
+Ameer,28,Male,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Agree,During Class Lectures,No,Notes Taking App,Yes,Accounting,All of these,Sometimes,Limiting Screen Time,Good
+Mishba,23,Female,Yes,Android,Sometimes,Social Media,Yes,Productivity Tools,5,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,All of these,Frequently,Taking Break during prolonged use,Fair
+Maria,23,Female,Yes,Android,Sometimes,Social Media;Web-browsing;Messaging;All of these,Yes,Study Planner,7,Strongly agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Headache;Sleep disturbance;Anxiety or Stress;All of these,Sometimes,None of Above,Excellent
+Ghazala,23,Female,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Disagree,While Studying,No,Notes Taking App,Yes,Reasarch,Sleep disturbance,Never,Limiting Screen Time,Good
+Amir,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,7,Neutral,Not Distracting,No,Internet Access,No,Reasarch,Headache,Sometimes,Taking Break during prolonged use,Excellent
+Irsh,23,Female,Yes,Android,Frequently,All of these,Yes,Educational Videos,5,Agree,Not Distracting,Yes,Internet Access,Yes,Reasarch,All of these,Rarely,Taking Break during prolonged use,Good
+Abrar,23,Male,Yes,Android,Never,All of these,No,Study Planner,7,Strongly disagree,During Class Lectures,Yes,Internet Access,No,Reasarch,Headache,Never,Using Blue light filter,Excellent
+Ramzan,23,Male,Yes,Android,Sometimes,Social Media,Yes,Language,7,Strongly disagree,Not Distracting,Yes,Internet Access,Only Partially,Reasarch,All of these,Never,Using Blue light filter,Excellent
+Sultan,23,Male,Yes,Android,Frequently,All of these,Yes,Language,5,Agree,During Class Lectures,Yes,Internet Access,Yes,Accounting,All of these,Sometimes,Taking Break during prolonged use,Good
+Kausar,23,Female,Yes,Android,Frequently,All of these,Yes,Productivity Tools,3,Strongly agree,Not Distracting,No,Internet Access,Yes,Reasarch,All of these,Frequently,Limiting Screen Time,Good
+Sabir,28,Male,Yes,Android,Sometimes,All of these,Yes,Productivity Tools,5,Agree,While Studying,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Sometimes,Taking Break during prolonged use,Good
+Sajid,18,Male,Yes,Android,Never,Web-browsing,Yes,Language,3,Strongly disagree,During Exams,Yes,Camera,Yes,Accounting,Anxiety or Stress,Rarely,Using Blue light filter,Excellent
+Humara,23,Female,Yes,Android,Sometimes,All of these,Yes,Productivity Tools,3,Strongly agree,While Studying,Yes,Camera,Only Partially,Browsing Material,Headache,Sometimes,Limiting Screen Time,Fair
+Aryan,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Using Blue light filter,Good
+Mahoob,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Disagree,While Studying,Yes,Camera,Yes,Accounting,Sleep disturbance,Sometimes,Taking Break during prolonged use,Fair
+Tufail,23,Male,Yes,Android,Never,Social Media,Yes,Language,3,Neutral,During Class Lectures,No,Calculator,Yes,Reasarch,All of these,Never,Limiting Screen Time,Excellent;Good
+Asfar,18,Male,Yes,Android,Rarely,All of these,Yes,Study Planner,5,Strongly agree,During Exams,Yes,Internet Access,No,Reasarch,All of these,Sometimes,Limiting Screen Time,Excellent
+Ibhraim,33,Male,Yes,IOS,Sometimes,Social Media,Yes,Language,3,Neutral,While Studying,Yes,Notes Taking App,Yes,Accounting,Sleep disturbance,Frequently,Limiting Screen Time,Fair
+Jinnah,18,Male,Yes,Android,Sometimes,Social Media,Yes,Language,3,Neutral,While Studying,Yes,Camera,Yes,Accounting,Headache,Frequently,Limiting Screen Time,Good
+Usman,23,Male,Yes,Android,Sometimes,Web-browsing,Yes,Educational Videos,3,Neutral,During Class Lectures,Yes,Camera,Yes,Accounting,Anxiety or Stress,Rarely,Taking Break during prolonged use,Fair
+Qasim,23,Male,Yes,Android,Never,All of these,Yes,Educational Videos,5,Disagree,During Class Lectures,Yes,Camera,Yes,Reasarch,Headache,Never,Using Blue light filter,Good
+Jawed,28,Male,Yes,Android,Rarely,Web-browsing,Yes,Language,7,Agree,During Exams,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Rarely,Limiting Screen Time,Good
+Nazir,23,Male,Yes,Android,Never,Social Media,Yes,Educational Videos,3,Agree,During Class Lectures,Yes,Internet Access,Yes,Reasarch,Headache,Never,Using Blue light filter,Excellent
+Shabir,23,Male,Yes,IOS,Sometimes,Social Media;Web-browsing;Messaging;All of these,Yes,Educational Videos,5,Agree,Not Distracting,Yes,Internet Access,No,Browsing Material,All of these,Sometimes,None of Above,Excellent;Good
+Bashir,23,Male,Yes,Android,Frequently,All of these,Yes,Productivity Tools,3,Agree,Not Distracting,No,Internet Access,Yes,Reasarch,Anxiety or Stress,Sometimes,None of Above,Good
+Rehan,23,Male,Yes,Android,Frequently,All of these,Yes,Productivity Tools,7,Strongly agree,Not Distracting,Yes,Internet Access,Only Partially,Browsing Material,All of these,Rarely,Taking Break during prolonged use,Good
+Fayaz,23,Male,Yes,Android,Rarely,Messaging,Yes,Educational Videos,5,Disagree,While Studying,Yes,Camera,Yes,Accounting,Sleep disturbance,Rarely,Using Blue light filter,Good
+Khurram,23,Male,Yes,Android,Sometimes,All of these,Yes,Study Planner,1,Strongly disagree,Not Distracting,No,Internet Access,Only Partially,Browsing Material,All of these,Sometimes,None of Above,Excellent
+Zulfiqar,23,Male,Yes,Android,Frequently,All of these,Yes,Educational Videos,7,Agree,During Exams,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Excellent
+Amina,18,Female,Yes,Android,Sometimes,All of these,Yes,Educational Videos,1,Neutral,During Exams,Yes,Internet Access,Only Partially,Reasarch,All of these,Frequently,None of Above,Fair
+Javid,23,Male,Yes,Android,Frequently,Social Media;Messaging,Yes,Educational Videos,5,Agree,During Exams,No,Internet Access,Yes,Reasarch,All of these,Sometimes,Taking Break during prolonged use,Good
+Arslan,23,Male,Yes,IOS,Sometimes,All of these,Yes,Educational Videos,7,Agree,During Exams,Yes,Internet Access,Yes,Accounting,Headache,Sometimes,Limiting Screen Time,Excellent;Good
+Malik,23,Male,Yes,IOS,Frequently,All of these,Yes,Educational Videos,7,Neutral,During Exams,Yes,Internet Access,Only Partially,Reasarch,Sleep disturbance;Anxiety or Stress,Sometimes,Taking Break during prolonged use,Good
+Ahsan,23,Male,Yes,Android,Frequently,All of these,Yes,Language,5,Strongly agree,While Studying,No,Internet Access,Yes,Browsing Material,All of these,Sometimes,Limiting Screen Time,Good
+Bhatti,23,Male,Yes,Android,Frequently,All of these,Yes,Educational Videos,5,Agree,During Class Lectures,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Good
+Tahir,23,Male,Yes,Android,Frequently,All of these,Yes,Educational Videos,3,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,All of these,Sometimes,Taking Break during prolonged use,Excellent
+Qasir,18,Male,Yes,Android,Sometimes,All of these,Yes,Study Planner,3,Neutral,While Studying,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Using Blue light filter,Good
+Abbas,23,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,7,Agree,While Studying,Yes,Internet Access,Yes,Browsing Material,Sleep disturbance,Rarely,None of Above,Fair
+Iftikhar,23,Male,Yes,Android,Sometimes,All of these,No,Language,7,Neutral,During Exams,Yes,Calculator,No,Browsing Material,Sleep disturbance,Rarely,Limiting Screen Time,Excellent;Good;Fair;Poor
+Ehman,23,Female,Yes,IOS,Frequently,Social Media;Web-browsing;Messaging;All of these,Yes,Educational Videos,5,Neutral,Not Distracting,Yes,Camera,Yes,Reasarch,Headache,Rarely,Taking Break during prolonged use,Fair
+Imran,18,Male,Yes,IOS,Sometimes,All of these,Yes,Educational Videos,5,Neutral,While Studying,Yes,Internet Access,No,Reasarch,All of these,Sometimes,Limiting Screen Time,Excellent
+Zahoor,23,Male,Yes,IOS,Sometimes,All of these,Yes,Educational Videos,7,Agree,During Exams,Yes,Internet Access,Yes,Reasarch,Headache,Sometimes,Taking Break during prolonged use,Excellent
+Hafeez,18,Male,Yes,Android,Sometimes,Social Media,Yes,Educational Videos,5,Strongly agree,During Class Lectures,No,Notes Taking App,No,Reasarch,Anxiety or Stress,Sometimes,Taking Break during prolonged use,Good
+Babar,18,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,3,Agree,While Studying,No,Internet Access,No,Reasarch,Headache,Never,Limiting Screen Time,Excellent
+Rizwan,18,Male,Yes,Android,Sometimes,All of these,Yes,Educational Videos,5,Agree,During Exams,No,Internet Access,Yes,Reasarch,Headache,Rarely,Limiting Screen Time,Excellent;Good
+Lubna,23,Female,Yes,Android,Sometimes,Social Media,Yes,Study Planner,5,Neutral,During Exams,Yes,Internet Access,Only Partially,Browsing Material,Sleep disturbance,Sometimes,Limiting Screen Time,Excellent
